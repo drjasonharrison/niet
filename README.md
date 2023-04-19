@@ -621,7 +621,7 @@ $ niet project.meta.name tests/samples/sample.yaml
 my-project
 ```
 
-### Complexe search
+### Complex search
 
 Consider the following content:
 
@@ -828,10 +828,10 @@ you to inspect your execution during your debug sessions.
 
 ## Contribute
 
-If you want to contribute to niet [please first read the contribution guidelines](CONTRIBUTING.md)
+If you want to contribute to niet [please first read the contribution guidelines](https://github.com/openuado/niet/CONTRIBUTING.md)
 
 ## Licence
 
 This project is under the MIT License.
 
-[See the license file for more details](LICENSE)
+[See the license file for more details](https://github.com/openuado/niet/LICENSE)
